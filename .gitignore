@@ -1,4 +1,13 @@
 .bundle
 db/*.sqlite3
 log/*.log
+capybara-*
+log/**/*
 tmp/**/*
+tmp/*
+.DS_Store
+._*
+database.yml
+coverage/*
+features_rcov/*
+solr/data
