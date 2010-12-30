@@ -11,7 +11,7 @@ group :development, :test do
 	gem 'database_cleaner'
 	gem 'cucumber-rails'
 	gem 'cucumber'
-	gem "rspec-rails", ">= 2.0.1"
+	gem "rspec-rails", ">= 2.3.1"
 	gem 'spork'
 	gem 'launchy'
 	gem 'ruby-debug19'
